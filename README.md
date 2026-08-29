@@ -107,11 +107,7 @@ does not claim generic trajectory equivalence among projection learning, gradien
 predictive coding, target propagation, VMP, EP, or natural-gradient methods. Loopy, nonconvex,
 nonsmooth, and inconsistent problems require their own convergence and stability analysis.
 
-No implementation from the separately supplied projection-training work is incorporated. Its
-unit-step Euclidean residual behavior is represented only by the standard mathematical corollary
-`x - (x - P_C(x)) = P_C(x)`.
-
-The code is internally modular. Future Modula or Modular/MAX integrations can implement the same
+The code is internally modular. Future Modular/MAX integrations can implement the same
 operator/readout interfaces without changing the scientific claim registry.
 
 ## License
