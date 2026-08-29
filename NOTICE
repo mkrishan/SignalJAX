@@ -1,0 +1,8 @@
+SignalJAX: Kullback–Leibler Projection Message Passing
+Copyright 2025 Manish Krishan Lal
+
+This product is companion software for:
+
+  Manish Krishan Lal,
+  "Backpropagation from KL Projections: Differential and Exact I-Projection Correspondences,"
+  arXiv:2512.24335, https://doi.org/10.48550/arXiv.2512.24335.

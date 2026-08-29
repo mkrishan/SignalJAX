@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Kullback–Leibler Projection Message Passing: Backpropagation and Exact Marginals"
+type: software
+authors:
+  - family-names: Lal
+    given-names: Manish Krishan
+version: 0.2.0
+date-released: 2026-08-30
+license: Apache-2.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Lal
+      given-names: Manish Krishan
+  title: "Backpropagation from KL Projections: Differential and Exact I-Projection Correspondences"
+  year: 2025
+  doi: 10.48550/arXiv.2512.24335
+  url: "https://arxiv.org/abs/2512.24335"

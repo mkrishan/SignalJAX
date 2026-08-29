@@ -1,0 +1,9 @@
+# Exact CPU environment used for the 0.2.0 verification run on Python 3.12.
+build==1.6.0
+hatchling==1.32.0
+hypothesis==6.165.10
+jax[cpu]==0.11.1
+pytest==9.1.1
+pytest-cov==7.1.0
+ruff==0.16.5
+twine==7.0.0
