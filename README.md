@@ -1,11 +1,9 @@
 # Kullback–Leibler Projection Message Passing: Backpropagation and Exact Marginals
 
-JAX research software by **Manish Krishan Lal** for studying signal propagation across
-gradient-based, belief-based, projection-based, and backpropagation-free paradigms through a
-modular message-passing calculus.
+SignalJAX studies signal propagation across gradient-based, belief-based, projection-based, and 
+backpropagation-free paradigms through a modular message-passing calculus.
 
-The software name is the title of the NeurIPS manuscript. The accompanying arXiv revision is
-*Backpropagation from KL Projections: Differential and Exact I-Projection Correspondences*,
+The accompanying arXiv revision is *Backpropagation from KL Projections: Differential and Exact I-Projection Correspondences*,
 [arXiv:2512.24335](https://arxiv.org/abs/2512.24335).
 
 The common experimental object is a lifted local operator together with a declared readout. This
